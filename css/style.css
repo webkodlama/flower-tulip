@@ -1,0 +1,156 @@
+.navbar-brand{
+    font-size: 31px;
+    font-weight: bold;
+   
+}
+.navbar-nav{
+    font-size: medium;
+}
+.navbar{
+    background-image: url(../css/flowers-img/slider/3-1.jpg);
+    height: 15%;
+}
+.navbar-nav li{
+    padding: 0 9px;
+    font-weight: bold;
+    color: #fff;
+}
+.navbar-nav li:last-child{
+    margin-right: 51px;
+}
+.navbar-toggler i{
+   
+    color:hotpink;
+    font-size: 30px !important;
+}
+
+#banner{
+    background-image: url(../css/flowers-img/slider/3-1.jpg);
+padding-top: 8%;
+    color: #fff;
+}
+.inner-title{
+    display: flex;
+    justify-content: center;
+    font-size: 125px;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+}
+
+.child-title{
+    display: flex;
+    justify-content: center;
+    font-size: 95px;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+}
+
+#blog{
+    padding: 80px 0;
+}
+
+.section-title{
+    display: flex;
+    justify-content: center;
+    font-size: 79px;
+    font-family: 'Rubik Doodle Triangles', system-ui;
+    color: hotpink;
+    text-align: center;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+}
+
+.section-title:hover{
+    background:lightpink;
+    border-radius: 20px;
+    
+}
+
+.card:hover{
+    border:1px solid salmon;
+    border-radius:  0 10px 0 10px;
+}
+
+.select-img{
+    width: 325px;
+}
+.select-child-title{
+    font-size:55px;
+    color: hotpink;
+    text-transform: capitalize;
+font-family: 'Lobster', sans-serif;
+padding: 0 15px;
+}
+
+.select-p{
+    padding: 0 25px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 2%;
+}
+.social-icons img{
+    width: 101px;
+    
+    margin-bottom: 0 45px;
+    transition: 0.5s;
+    
+}
+.social-icons a:hover img{
+    transform: translateY(-10px);
+}
+#footer{
+    bottom: 20px;
+    background-image: url(../css/flowers-img/slider/3-1.jpg);
+    color: #fff;
+}
+.footer-box{
+    padding: 20px;
+}
+
+.footer-box a span{
+    margin-bottom: 20px;
+    font-size: xx-large;
+    text-decoration:none;
+}
+.footer-box a{
+    text-decoration: none;
+}
+.footer-box .fa-solid{
+    margin-right: 8px;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 2px;
+    background-image:url(../css/flowers-img/slider/3-1.jpg) ;
+}
+.footer-box .form-control{
+    box-shadow: none !important;
+    margin-top: 25px;
+    max-width: 250px;
+}
+.footer-box .btn{
+    background: palevioletred;
+    color: #fff;
+    margin-top: 30px;
+}
+hr{
+    background-color: #fff;
+}
+.copyright{
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+#select a{
+    text-decoration: none;
+}
+.about-img{
+    margin-top: 8%;
+    margin-left: 9%;
+    width: 665px;
+}
+.section-title p{
+    margin: 0 65px;
+}
